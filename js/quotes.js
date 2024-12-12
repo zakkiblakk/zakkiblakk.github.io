@@ -2,7 +2,7 @@
 (function newFact() {
   var facts = ['"I\'ve got a lot on my plate, but I\'ve got a big fork" - Zakki Blakk',
 			   '"Creativity is the ultimate freedom" - Christian Meyer',
-			   '"They say you sould live as you are told to/I say you gotta be strong and make up your own mind" - David \"Leppard\" Hellman',
+			   '"They say you should live as you are told to/I say you gotta be strong and make up your own mind" - David \"Leppard\" Hellman',
 			   '"A nod is as good as a wink to a blind horse" - Rolf',
 			   '"Can\'t make an egg without an omelette" - Zakki Blakk',
 			   '"Let go of your jimmies; seek unrustlement" - Unknown',
